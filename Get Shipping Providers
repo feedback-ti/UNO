@@ -1,0 +1,4 @@
+curl -X GET \
+ 'https://open-api.tiktokglobalshop.com/logistics/202309/delivery_options/6955034615128000261/shipping_providers?sign=bc721f0e0182914e3487b81df204de37a352fc3aa96947efda6dc1e5dd0d5290&timestamp=1623812664&app_key=29a39d&shop_cipher=GCP_XF90igAAAABh00qsWgtvOiGFNqyubMt3' \
+-H 'x-tts-access-token: TTP_pwSm2AAAAABmmtFz1xlyKMnwg74T2GJ5s0uQbS8jPjb_GkdFVCxPqzQXSyuyfXdQa0AqyDsea2tYFNVf4XeqgZHFfPyv0Vs659QqyLYfsGzanZ5XZAin3_ZkcIxxS0_In6u6XDeU96k' \
+-H 'content-type: application/json'
